@@ -6,7 +6,7 @@
 </div>
 
 <!-- ABOUT -->
-## `$ whoami`
+## ‼️Who am I?
 
 <pre>
 name          : Chrysels Nicha Aime Laoh
